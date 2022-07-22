@@ -32,3 +32,5 @@ bin/
 
 ### output ###
 *.class
+
+*.pdf
